@@ -5,7 +5,14 @@
 * ознакомиться с документацией https://github.com/dotnet-presentations/blazor-workshop/tree/master/docs
 * запустить приложение через VS2019 Community Preview https://github.com/dotnet-presentations/blazor-workshop/blob/master/src/BlazingPizza.sln
 * написать файл `run-debug.bat` в котором добавить секции 
-* запустить
+* запустить приложении таким образом через `dotnet watch` чтобы при изменении файлов Razor приложение перекомпилировалось
+
+**Примечание:**
+
+* код скрипта `run-debug.bat` можно подсмотреть тут https://github.com/silverbulleters/OneScript.Web/blob/develop/debug-application/debug.bat
+* код настроек файлов за которыми будет следить `dotnet watch` можно подсмотреть тут https://github.com/silverbulleters/OneScript.Web/blob/develop/src/OneScript/OneScriptWeb.csproj#L67
+
+Суть тестового задания - пройти по шагам, запустить тестовое приложение и не потерять интерес к технологии
 
 ### Разработчик
 
