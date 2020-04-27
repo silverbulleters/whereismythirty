@@ -2,6 +2,8 @@
 
 ### Стажер
 
+Вакансия тут [https://hh.ru/vacancy/36772881]
+
 * ознакомиться с документацией https://github.com/dotnet-presentations/blazor-workshop/tree/master/docs
 * запустить приложение через VS2019 Community Preview https://github.com/dotnet-presentations/blazor-workshop/blob/master/src/BlazingPizza.sln
 * написать файл `run-debug.bat` в котором добавить секции 
